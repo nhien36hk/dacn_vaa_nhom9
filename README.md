@@ -1,4 +1,4 @@
-# dacn_vaa_nhom9
+# Đồ án chuyên nghành VAA
 ## Thông tin nhóm
 
 - **Tên nhóm**: Nhóm 9
